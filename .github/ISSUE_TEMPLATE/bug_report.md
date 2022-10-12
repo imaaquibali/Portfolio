@@ -1,38 +1,19 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+Name: 🐛 Bug report
+About: Report an issue to help improve the project.
+Labels: '🛠 goal: fix'
+Assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Description
+A brief description of the question or issue, also include what you tried and what didn't work
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Screenshots
+Please add screenshots if applicable
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Additional information
+Is there anything else we should know about this bug?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+ You can also message me [here](https://twitter.com/imaaquibali) for any other feedback!
+ Feel free to reach out to me on my other handles [here](https:/imaaquibali.me), for a faster response!
